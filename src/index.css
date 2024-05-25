@@ -11,3 +11,207 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.row1col1{
+  background-color:  rgba(220, 235, 235, 0.244);
+  background-image: 
+      radial-gradient(rgba(248, 246, 246, 0.43) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 245, 245, 0.582) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 244, 244, 0.641) 0.5px, transparent 0.5px),
+      radial-gradient(rgb(245, 241, 241) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(250, 244, 244, 0.386) 0.5px, transparent 0.5px);
+  background-size: 
+      40px 40px,
+      60px 60px,
+      80px 80px,
+      100px 100px,
+      120px 120px;
+  background-position:
+      10px 10px,
+      20px 20px,
+      30px 30px,
+      50px 50px;
+  
+
+}
+
+.row1col1col1{
+  margin-top: 50%;
+
+}
+.row1col2{
+  background-color: rgba(220, 235, 235, 0.244); /* خلفية سوداء */
+  background-image: 
+      radial-gradient(rgba(248, 246, 246, 0.43) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 245, 245, 0.582) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 244, 244, 0.641) 0.5px, transparent 0.5px),
+      radial-gradient(rgb(245, 241, 241) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(250, 244, 244, 0.386) 0.5px, transparent 0.5px);
+  background-size: 
+      40px 40px,
+      60px 60px,
+      80px 80px,
+      100px 100px,
+      120px 120px;
+  background-position:
+      10px 10px,
+      20px 20px,
+      30px 30px,
+      50px 50px;
+}
+.turki {
+ 
+ width: 70%;
+ height: 90%;
+margin-top: 5%;
+margin-left: 12%;
+}
+.row0{
+  width: 90vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(23, 23, 24, 0.981); /* خلفية سوداء */
+  background-image: 
+      radial-gradient(rgba(248, 246, 246, 0.43) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 245, 245, 0.582) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 244, 244, 0.641) 0.5px, transparent 0.5px),
+      radial-gradient(rgb(245, 241, 241) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(250, 244, 244, 0.386) 0.5px, transparent 0.5px);
+  background-size: 
+      40px 40px,
+      60px 60px,
+      80px 80px,
+      100px 100px,
+      120px 120px;
+  background-position:
+      10px 10px,
+      20px 20px,
+      30px 30px,
+      50px 50px;
+ 
+}
+
+.welcome-text{
+
+  margin-top: 5%;
+  margin-left: 5%;
+  width: 10vwpx;
+  color: azure;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  
+}
+
+h6.custom-text {
+  font-family: Arial, sans-serif; /* Change to your preferred font */
+  font-size: 16px; /* Adjust the font size as needed */
+  line-height: 1.5; /* Adjust line height for better readability */
+  color: #232222; /* Set the text color */
+  padding: 20px; /* Add some padding */
+  background-color: #f9f9f966; /* Optional: Add a background color */
+  border: 1px solid #dddddd; /* Optional: Add a border */
+  border-radius: 8px; /* Optional: Add rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+  margin: 20px 0; /* Add margin to separate from other elements */
+}
+
+.row3
+{
+  display: flex;
+  align-items: center;
+  padding: 2%;
+  
+}
+.row3cols{
+
+  margin-top: 10%;
+  
+}
+
+.planetrow{
+
+  display: flex;
+  justify-content: right;
+}
+
+.homepage{
+
+  background-color: rgba(23, 23, 24, 0.981);
+  background-image: 
+      radial-gradient(rgba(248, 246, 246, 0.43) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 245, 245, 0.582) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 244, 244, 0.641) 0.5px, transparent 0.5px),
+      radial-gradient(rgb(245, 241, 241) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(250, 244, 244, 0.386) 0.5px, transparent 0.5px);
+  background-size: 
+      40px 40px,
+      60px 60px,
+      80px 80px,
+      100px 100px,
+      120px 120px;
+  background-position:
+      10px 10px,
+      20px 20px,
+      30px 30px,
+      50px 50px;
+}
+.projects
+{
+  background-color: rgba(17, 36, 57, 0.432);
+  background-image: 
+      radial-gradient(rgba(248, 246, 246, 0.43) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 245, 245, 0.582) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(248, 244, 244, 0.641) 0.5px, transparent 0.5px),
+      radial-gradient(rgb(245, 241, 241) 0.5px, transparent 0.5px),
+      radial-gradient(rgba(250, 244, 244, 0.386) 0.5px, transparent 0.5px);
+  background-size: 
+      40px 40px,
+      60px 60px,
+      80px 80px,
+      100px 100px,
+      120px 120px;
+  background-position:
+      10px 10px,
+      20px 20px,
+      30px 30px,
+      50px 50px;
+}
+
+/* Style for the h2 element */
+.custom-heading {
+  color: teal;
+  font-size: 2em; /* Adjust the size as needed */
+  font-weight: bold;
+  text-align: center; /* Center align the heading */
+  margin-bottom: 1rem;
+}
+
+/* Style for the ul and li elements */
+.custom-list {
+  list-style-type: square; /* Change bullet points style */
+  padding-left: 1.5rem; /* Add some padding to the left */
+  color: teal; /* Set text color */
+
+  /* Style for individual list items */
+  font-size: 1.2em; /* Adjust the size as needed */
+}
+
+.custom-list li {
+  margin-bottom: 0.5rem; /* Add some space between list items */
+}
+
+.image{
+  width: 70px;
+  height: auto;
+  margin-top: 3%;
+  margin-left: 10%;
+  
+}
+.contact{
+  background-color: rgba(191, 197, 219, 0.182);
+}
+ 
+
+
+
